@@ -1,0 +1,107 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Daniil",
+            "surname": "Oaserele",
+            "photo_url": "https://intecweb.ru/images/logo-image-litso.png",
+            "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Razvan",
+            "surname": "Tantar",
+            "photo_url": "https://avatars.mds.yandex.net/i?id=f73d2032ea7a3adc6dae74dc073b5bb57b67b60f-5205837-images-thumbs&n=13",
+            "balance": 2000
+        },
+        {
+            "id": 3,
+            "name": "Ion",
+            "surname": "Talpa",
+            "photo_url": "https://avatars.mds.yandex.net/i?id=0d61e507df9e4828094b34fb560f008b688c5e84-9863853-images-thumbs&n=13",
+            "balance": 1200
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Meteorit",
+            "description": "Ciocolata cu nuci",
+            "price": 120,
+            "author_id": 1,
+            "photo_url": "https://avatars.mds.yandex.net/i?id=3b7dfc045bff5ba773a0766abe065dec9adbe18b-8185027-images-thumbs&n=13"
+        },
+        {
+            "id": 2,
+            "name": "DoReMi",
+            "description": "Bomboane cu visina",
+            "price": 135,
+            "author_id": 2,
+            "photo_url": "https://img1.21food.com/img/cj/2014/10/9/1412845180060281.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Brandusa",
+            "description": "Bomboane cu glazura de ciocolata",
+            "price": 150,
+            "author_id": 3,
+            "photo_url": "https://magazinbucuria.ro/pub/media/catalog/product/cache/1/600x600/bomboane-bucuria-cu-napolitana-tocata-brandusa-250g-mb00285.png"
+        },
+        {
+            "id": 4,
+            "name": "Chisinaul de seara",
+            "description": "Bomboane cu prune uscate",
+            "price": 100,
+            "author_id": 4,
+            "photo_url": "https://pegas.md/adminpanel/pub/media/catalog/product/_/M/_MG_0489_web_2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Toffifee",
+            "description": "Bomboane cu ciocolata si nuci",
+            "price": 156,
+            "author_id": 5,
+            "photo_url": "https://static.storck.com/lmiv/products/eng_GB_TOF-12_P.png"
+        },
+        {
+            "id": 6,
+            "name": "Kinder",
+            "description": "Ciocolata cu vanilie",
+            "price": 80,
+            "author_id": 6,
+            "photo_url": "https://www.bigw.com.au/medias/sys_master/images/images/he1/h9d/14227071565854.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Raffaello",
+            "description": "Bomboane cu nuca de cocos",
+            "price": 147,
+            "author_id": 7,
+            "photo_url": "https://surprize.md/wp-content/uploads/2021/08/res_73ef14078cb9c12b61c67cf179ae0730_450x450_ql2m-_-1575052525.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ferrero rocher",
+            "description": "Bomboane cu ciocolata",
+            "price": 210,
+            "author_id": 8,
+            "photo_url": "https://gomagcdn.ro/domains/cafea-premium.ro/files/product/large/ferrero-rocher-bomboane-de-ciocolata-praline-24-buc-300g-315020.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Merci",
+            "description": "Bomboane de ciocolata",
+            "price": 190,
+            "author_id": 9,
+            "photo_url": "https://alcomarket.md/public/products/thumbs/items-11364-4936.png"
+        },
+        {
+            "id": 10,
+            "name": "Milka",
+            "description": "Bomboane cu ciocolata si nuci",
+            "price": 179,
+            "author_id": 10,
+            "photo_url": "https://winetime.md/images/product/2024/09/bomboane-de-ciocolata-milka-cu-umplutura-de-capsune-110g-182.png"
+        }
+    ]
+}
